@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arekjaeraas
 - 👀 I’m interested Software and Architecture
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Typescript
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me are.kjaeraas@gmail.com
 
